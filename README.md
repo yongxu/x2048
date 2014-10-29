@@ -1,4 +1,8 @@
-x2048
-=====
+x2048-element
+================
 
-Polymer component of game 2048
+See the [component page](http://yongxu.github.io/x2048-element) for more information.
+
+## Getting Started
+
+We've put together a [guide for x2048-element](http://www.polymer-project.org/docs/start/reusableelements.html) to help get you rolling.
